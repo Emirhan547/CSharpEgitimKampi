@@ -53,12 +53,5 @@ Girdi alan, işlem yapan ve çıktı üreten metotlar oluşturdum. Kullanıcıda
 
 ---
 
-### 📁 Projeyi Klonlamak İçin
-
-```bash
-git clone https://github.com/Emirhan547/CSharpEgitimKampi.git
-```
-
----
-
-İstersen bu içeriğe görseller, proje klasör yapısı ya da kaynak bağlantılar da ekleyebilirim. Yardımcı olmamı ister misin?
+### ✨ Proje 9: Veritabanı Tabanlı Ürün-Kategori Bilgi Sistemi
+Bu projede ADO.NET kullanarak SQL Server veritabanına bağlantı sağlamayı ve verileri çekerek konsol ekranında listelemeyi öğrendim. Kullanıcıdan alınan girişe göre, TblCategory tablosundaki verileri getiren temel bir menü sistemi oluşturuldu. SqlConnection, SqlCommand, SqlDataAdapter ve DataTable gibi sınıflar kullanılarak veri çekme süreci adım adım uygulandı. Bu çalışma, veritabanı ile C# arasında köprü kurma yeteneğimi geliştirerek daha dinamik uygulamalar tasarlama konusunda bana güçlü bir temel sundu. 🗂️
