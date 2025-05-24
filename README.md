@@ -55,3 +55,28 @@ Girdi alan, işlem yapan ve çıktı üreten metotlar oluşturdum. Kullanıcıda
 ### ✨ Proje 9: Veritabanı Tabanlı Ürün-Kategori Bilgi Sistemi
 
 Bu projede ADO.NET kullanarak SQL Server veritabanına bağlantı sağlamayı ve verileri çekerek konsol ekranında listelemeyi öğrendim. Kullanıcıdan alınan girişe göre, `TblCategory` tablosundaki verileri getiren temel bir menü sistemi oluşturuldu. `SqlConnection`, `SqlCommand`, `SqlDataAdapter` ve `DataTable` gibi sınıflar kullanılarak veri çekme süreci adım adım uygulandı. Bu çalışma, veritabanı ile C# arasında köprü kurma yeteneğimi geliştirerek daha dinamik uygulamalar tasarlama konusunda bana güçlü bir temel sundu. 🗂️
+
+---
+
+### ✨ Proje 10: Menü Sipariş İşlem Paneli
+
+Bu projede, bir menü sistemi üzerinden ürün ve kategori yönetimi sağlayarak **veritabanı tabanlı bir uygulama geliştirdim**. ADO.NET kullanarak SQL Server veritabanına bağlandım ve temel **CRUD işlemlerini** (Ekleme, Listeleme, Güncelleme, Silme) gerçekleştirdim.  
+Uygulama kapsamında kullanıcıdan alınan girdilere göre dinamik SQL sorguları oluşturuldu ve veritabanı üzerinde işlem yapıldı.
+
+#### ✅ Uygulama Özellikleri
+
+- 📌 **Kategori ekleme:** Kullanıcıdan alınan kategori adı veritabanına kaydedilir.
+- 🛒 **Ürün ekleme:** Ürün adı, fiyatı ve durumu girilerek `TblProduct` tablosuna kayıt eklenir.
+- 📃 **Ürün listeleme:** Tüm ürünler tablo olarak ekrana yazdırılır.
+- ❌ **Ürün silme:** Girilen ID'ye sahip ürün sistemden silinir.
+- ✏️ **Ürün güncelleme:** Mevcut bir ürünün adı ve fiyatı güncellenir.
+
+#### 🎯 Kazanımlar
+
+Bu proje sayesinde:
+
+- **ADO.NET kullanarak veritabanı bağlantısı** kurmayı,
+- **SQL sorguları ile veri yönetimini**,
+- **C# ile kullanıcı girdisi alma ve işleme mantığını** öğrendim.
+
+Gerçek dünya uygulamalarına yakın bir yapıda çalışarak yazılım geliştirme becerilerimi pekiştirdim. 🗃️
