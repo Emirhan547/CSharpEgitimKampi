@@ -107,5 +107,6 @@ Bu proje, hem teknik becerilerimi geliştirmeme hem de **kullanıcı deneyimi a�
 
 ---
 
-![İstatistik Paneli Görseli](./Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-05-25%20014620.png)
+
+![Ekran görüntüsü 2025-05-25 014620](https://github.com/user-attachments/assets/c1d05ebf-c362-4ba5-b0a4-6675bb0c30a1)
 
