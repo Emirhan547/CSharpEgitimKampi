@@ -80,3 +80,32 @@ Bu proje sayesinde:
 - **C# ile kullanıcı girdisi alma ve işleme mantığını** öğrendim.
 
 Gerçek dünya uygulamalarına yakın bir yapıda çalışarak yazılım geliştirme becerilerimi pekiştirdim. 🗃️
+
+---
+
+### ✨ Proje 11: EfTravel İstatistik Paneli
+
+Bu projede, **Entity Framework** kullanılarak geliştirilen bir seyahat yönetim sisteminin verilerini analiz eden ve kullanıcıya **istatistiksel bilgiler sunan** bir Windows Forms uygulaması oluşturdum. Proje kapsamında, arayüz üzerinde çeşitli özet bilgiler **dinamik olarak** listelendi. 🬭
+
+#### 🔍 Panelde Sunulan Bazı Bilgiler:
+
+* Lokasyon, rehber ve toplam kapasite gibi **genel sayısal veriler**
+* Ortalama kapasite ve fiyat gibi **istatistiksel hesaplamalar**
+* Belirli bölgelere ("Kapadokya" veya "Türkiye" gibi) özgü **özelleştirilmiş sorgular**
+* En yüksek fiyatlı veya en fazla kapasiteye sahip turlar gibi **ekstrem veriler**
+* Belirli bir rehberin düzenlediği toplam tur sayısı gibi **kişisel istatistikler**
+
+#### 🚀 Proje Kazanımları
+
+Bu uygulama sayesinde:
+
+* **Entity Framework ile veri tabanı işlemleri** yapmayı ve bu işlemleri LINQ ile nasıl sadeleştireceğimi öğrendim.
+* Windows Forms arayüzü üzerinden **gerçek zamanlı veri görselleştirme** gerçekleştirdim.
+* Farklı filtreleme ve sıralama teknikleriyle kullanıcıya anlamlı bilgiler sunmayı başardım.
+
+Bu proje, hem teknik becerilerimi geliştirmeme hem de **kullanıcı deneyimi açısından işlevsel bir uygulama** oluşturmama katkı sağladı. 📈
+
+---
+
+![İstatistik Paneli Görseli](./Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-05-25%20014620.png)
+
